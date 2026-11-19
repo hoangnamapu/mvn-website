@@ -52,7 +52,7 @@ function Header() {
               <Image
                 src='/logo.webp'
                 alt='MAQ Construction'
-                width={120}
+                width={44}
                 height={56}
                 className='h-14 w-auto'
                 priority
